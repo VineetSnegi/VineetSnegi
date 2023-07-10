@@ -1,11 +1,16 @@
 # Vineet Singh Negi
 [![Twitter: vineetSnegi](https://img.shields.io/twitter/follow/vineetsnegi?style=social)](https://twitter.com/vineetsnegi)
 ![GitHub followers](https://img.shields.io/github/followers/VineetSnegi?label=Follow&style=social)
-[![Linkedin: vineetSnegi](https://img.shields.io/badge/-vineetSnegi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vineetSnegi/)](https://www.linkedin.com/in/vineetSnegi/) 
+[![Linkedin: vineetsnegi](https://img.shields.io/badge/-Vineet_Singh_negi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vineetsnegi/)](https://www.linkedin.com/in/vineetsnegi/) 
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:vineet.bkh@gmail.com)](mailto:vineet.bkh@gmail.com)
+
 ---
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
+## 🧐 About
+Hi there 👋, I'm Vineet Singh Negi and I'm passionate about DevOps, cloud computing, machine learing and exploring all the different technologies involved in the process. I am constantly seeking new opportunities to expand my skill set and am actively working on various projects to improve my knowledge.
 
+---
 ### Quick stats about me
 | Github Stats | Top Languages |
 | --- | --- |
