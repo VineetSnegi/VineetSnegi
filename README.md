@@ -47,7 +47,6 @@ BLOG-POST-LIST:END -->
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=vineetsnegi&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/vineetsnegi/vineetsnegi?color=black&logo=github" />
 </p>
 
 
