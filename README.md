@@ -23,21 +23,6 @@ I'm Vineet Singh Negi and I'm passionate about DevOps, Machine Learing, Cloud Co
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=6aa6f8)
 
-<!-- BLOG-POST-LIST:START 
-## Blog & Writing
-
-Apart from coding, I also maintain a blog - you can find my articles on [Hashnode](https://vineetsnegi.hashnode.dev/).
-
-Some of my articles:
-
-
-- [Goodbye etcd, Hello PostgreSQL: Running Kubernetes with an SQL Database]()
-- [Remote Interactive Debugging of Python Applications Running in Kubernetes]()
-- [The Right Way to Run Shell Commands From Python]()
-- [Real Multithreading is Coming to Python - Learn How You Can Use It Now]()
-BLOG-POST-LIST:END -->
-
-
 ---
 
 ### Quick stats about me
@@ -48,6 +33,12 @@ BLOG-POST-LIST:END -->
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=vineetsnegi&style=plastic&label=Views"><img>
 </p>
+
+---
+## My Latest Blog Posts 👇
+
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
 
 
 
