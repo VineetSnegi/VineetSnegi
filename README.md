@@ -30,16 +30,14 @@ I'm Vineet Singh Negi and I'm passionate about DevOps, Machine Learing, Cloud Co
 | --- | --- |
 | ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=VineetSnegi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VineetSnegi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
 
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=vineetsnegi&style=plastic&label=Views"><img>
-</p>
 
----
 
 # Latest Blog Posts
 <!-- HASHNODE_BLOG:START -->
 <!-- HASHNODE_BLOG:END -->
 
 
-
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=vineetsnegi&style=plastic&label=Views"><img>
+</p>
 
