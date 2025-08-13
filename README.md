@@ -33,10 +33,10 @@ I’m currently sharpening my skills through hands-on projects, continuous learn
 
 ---
 
-### Quick stats about me
+<!-- ### Quick stats about me
 | Github Stats | Top Languages |
 | --- | --- |
-| ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=VineetSnegi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VineetSnegi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
+| ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=VineetSnegi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VineetSnegi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | -->
 
 <!-- ## My Latest Blog Posts 👇 -->
 <!-- HASHNODE_BLOG:START -->
