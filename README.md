@@ -6,9 +6,10 @@
 [![Linkedin: vineetsnegi](https://img.shields.io/badge/-Vineet_Singh_Negi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vineet-singh-negi-b4a4aa36a/)](https://www.linkedin.com/in/vineet-singh-negi-b4a4aa36a/) 
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:vineet.bkh@gmail.com)](mailto:vineet.bkh@gmail.com)
 
-Hi, I’m Vineet Singh Negi, a tech enthusiast with a growing interest in DevOps and Machine Learning. I enjoy diving deep into modern technologies and exploring how automation, cloud infrastructure, and intelligent systems can work together to build efficient, scalable solutions.
+Hi, I’m Vineet Singh Negi. I code to Automate, Optimize, Secure and Scale Infrastructure.
 
-I’m currently sharpening my skills through hands-on projects, continuous learning, and sharing my journey via technical blogs. My writing reflects real-world challenges and solutions I encounter, especially in the realms of DevOps workflows and Cloud platforms.
+DevOps and Cloud are what I excel at and I am actively expanding into MLOps. I enjoy diving deep into modern technologies and exploring how automation, cloud infrastructure, and intelligent systems can work together to build efficient and scalable solutions.
+I am currently sharpening my skills through hands on projects, continuous learning, and sharing my journey via technical blogs. My writing reflects real world challenges and solutions I encounter, especially in the realms of DevOps workflows and Cloud platforms.
 
 
 ### Technologies & Tools
