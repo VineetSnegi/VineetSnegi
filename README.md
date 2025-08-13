@@ -1,9 +1,9 @@
 <img src="header_en.svg"></img>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-[![Twitter: vineetSnegi](https://img.shields.io/twitter/follow/vineetsnegi?style=social)](https://twitter.com/vineetsnegi)
+[![Twitter: vineetSnegi](https://img.shields.io/twitter/follow/vineetsnegi?style=social)](https://x.com/vineetSnegi_)
 ![GitHub followers](https://img.shields.io/github/followers/VineetSnegi?label=Follow&style=social)
-[![Linkedin: vineetsnegi](https://img.shields.io/badge/-Vineet_Singh_Negi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vineet-singh-negi-b4a4aa36a/)](https://www.linkedin.com/in/vineet-singh-negi-b4a4aa36a/) 
+[![Linkedin: vineetsnegi](https://img.shields.io/badge/-Vineet_Singh_Negi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vineet-singh-negi-b4a4aa36a/)](https://www.linkedin.com/in/vineetsnegii/) 
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:vineet.bkh@gmail.com)](mailto:vineet.bkh@gmail.com)
 
 Hi, I’m Vineet Singh Negi. I code to Automate, Optimize, Secure and Scale Infrastructure.
