@@ -9,6 +9,7 @@
 Hi, I’m Vineet Singh Negi. I code to Automate, Optimize, Secure and Scale Infrastructure.
 
 DevOps and Cloud are what I excel at and I am actively expanding into MLOps. I enjoy diving deep into modern technologies and exploring how automation, cloud infrastructure, and intelligent systems can work together to build efficient and scalable solutions.
+
 I am currently sharpening my skills through hands on projects, continuous learning, and sharing my journey via technical blogs. My writing reflects real world challenges and solutions I encounter, especially in the realms of DevOps workflows and Cloud platforms.
 
 
